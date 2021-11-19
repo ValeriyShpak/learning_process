@@ -3,4 +3,5 @@ Main libraries: pandas, numpy, matplotlib, seaborn. In this repository I have an
 As a result I have received information for improving the learning process: 
 1) Some statistics data about learning process (like count of courses in dataset, count of modules in every course, count of lessons in every module in every course); 
 2) Potential workload of teachers; 
-3) Problematic modules.
+3) Problematic modules;
+4) Conversion of students transfer from module to module.
